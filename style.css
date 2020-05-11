@@ -1,0 +1,47 @@
+*{margin:0;padding:0;}
+.fix{overflow:hidden;}
+body{font-size:14px;background:url(images/background_image.jpg) fixed;}
+.main{width:960px;margin:10px auto;background: #fff;}
+.logo{float:left;}
+.logo img {
+	width: 114px;
+	margin-left: 84px;
+	height: 98px;
+}.header_area{background:#777777;}
+.header {
+	position: absolute;
+	left: 376px;
+	margin-top: 33px;
+	padding-bottom: 20px;
+}
+.menu{margin-top;10px;}
+.menu ul{margin:0;padding:0;list-style-type:none;overflow:hidden;background:#4d7;}
+.menu ul li{float:left;border-right:1px solid #777; }
+.menu ul li a{text-decoration:none;color:#1f2621;display:block;padding:10px;}
+.menu ul li a:hover{background:#0d9b3c}
+.social{
+    position:fixed;
+    right: 298px;
+    top: 15px;}
+.social ul{list-style:none;}
+.social li{float:left;padding:5px;}
+.social img{width:30px;height:30px;}
+.slider{}
+.slider img{}
+.content{margin-top: 21px;margin-bottom:10px;}
+.content h2{margin-bottom: 8px;}
+.content h2{}
+.maincontent {
+	width: 254px;
+	float: left;
+	margin-right: 22px;
+	text-align: justify;
+	margin-left: 12px;
+}
+.sidebar{}
+.sidebar{margin-right:5px;}
+.sidebar ul{margin:0;padding:0;overflow:hidden;list-style:none;background:#444444;}
+.sidebar ul li{border-bottom:1px solid #44dd77}
+.sidebar ul li a{text-decoration:none;display:block;padding:10px;color:#fff;text-align:center;}
+.sidebar ul li a:hover{background: #808080;}
+.footer{background:#040905;color:#fff;padding:15px;text-align:center;}
